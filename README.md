@@ -74,7 +74,7 @@ doctor-strange-opencv-effect/ ├── main.py ├── README.md └── de
 ---
 
 ## 🚀 How to Run (STEP-BY-STEP IN VS CODE)
-
+```
 ### 🔹 Step 1: Install VS Code Extensions
 Open VS Code → Extensions tab → install:
 - **Python** (by Microsoft)
@@ -122,7 +122,7 @@ python main.py
 
 The webcam window will open automatically.
 
-
+```
 ---
 
 🎮 Controls
