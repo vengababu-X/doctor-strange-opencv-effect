@@ -59,9 +59,9 @@ The spell:
 ---
 
 ## 📂 Project Structure
-
+```
 doctor-strange-opencv-effect/ ├── main.py ├── README.md └── demo.mp4
-
+```
 ---
 
 ## 🧩 Requirements
