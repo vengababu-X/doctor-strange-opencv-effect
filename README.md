@@ -48,14 +48,14 @@ The spell:
 ---
 
 ## 🛠️ Tech Stack
-
+```
 | Technology | Usage |
 |---------|------|
 | Python 3.13 | Core language |
 | OpenCV | Video processing & rendering |
 | NumPy | Math & animation logic |
 | VS Code | Development environment |
-
+```
 ---
 
 ## 📂 Project Structure
